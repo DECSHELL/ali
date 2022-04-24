@@ -1,14 +1,14 @@
 {
-    "name": "telegram-ali",
+    "name": "ali",
     "description": "Deploy a Telegram bot that will help you so muchh...",
     "keywords": [
       "telegram-bot",
       "python",
       "proxy"
     ],
-    "website": "https://github.com/alihassandy/telegram-ali",
-    "repository": "https://github.com/alihassandy/telegram-ali",
-    "success_url": "https://github.com/alihassandy/telegram-ali",
+    "website": "https://github.com/aliiq2004/ali",
+    "repository": "https://github.com/aliiq2004/ali",
+    "success_url": "https://github.com/aliiq2004/ali",
     "env": {
       "HEROKU_APP_NAME": {
         "description": "The name of your Heroku app. Yes, again. Just copy-paste it!"
